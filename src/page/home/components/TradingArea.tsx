@@ -85,8 +85,8 @@ const TradingArea: React.FC<Props> = ({ data, activeUnit }) => {
           return `
           <div class="px-2 py-2 bg-slate-800 rounded-sm text-white block">
             <p class="text-base">${item.formatter.percentage}</p>
-            <div class="flex gap-1 align-center" style="padding-right: 20px;">
-              <img width="20" height="20" src="${item.formatter.flag}" class="object-contain" />
+            <div class="flex gap-1 align-center my-1" style="padding-right: 32px;">
+              <img src="${item.formatter.flag}" class="object-contain" />
               <span class="text-xs">${item.name}</span>
             </div>
             <p class="text-xs mb-0">${item.formatter.value} <span class="text-xs text-gray-400 capitalize">${activeUnit}</span></p>
