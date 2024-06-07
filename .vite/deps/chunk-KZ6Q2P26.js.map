@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/lodash-es/_baseMap.js"],
+  "sourcesContent": ["import baseEach from './_baseEach.js';\nimport isArrayLike from './isArrayLike.js';\n\n/**\n * The base implementation of `_.map` without support for iteratee shorthands.\n *\n * @private\n * @param {Array|Object} collection The collection to iterate over.\n * @param {Function} iteratee The function invoked per iteration.\n * @returns {Array} Returns the new mapped array.\n */\nfunction baseMap(collection, iteratee) {\n  var index = -1,\n      result = isArrayLike(collection) ? Array(collection.length) : [];\n\n  baseEach(collection, function(value, key, collection) {\n    result[++index] = iteratee(value, key, collection);\n  });\n  return result;\n}\n\nexport default baseMap;\n"],
+  "mappings": ";;;;;;;;AAWA,SAAS,QAAQ,YAAY,UAAU;AACrC,MAAI,QAAQ,IACR,SAAS,oBAAY,UAAU,IAAI,MAAM,WAAW,MAAM,IAAI,CAAC;AAEnE,mBAAS,YAAY,SAAS,OAAO,KAAKA,aAAY;AACpD,WAAO,EAAE,KAAK,IAAI,SAAS,OAAO,KAAKA,WAAU;AAAA,EACnD,CAAC;AACD,SAAO;AACT;AAEA,IAAO,kBAAQ;",
+  "names": ["collection"]
+}
