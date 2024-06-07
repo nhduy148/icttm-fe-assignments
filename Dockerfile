@@ -16,7 +16,7 @@ FROM node:14 as deploy
 
 WORKDIR /app
 
-COPY --from=build /app/build ./build
+COPY --from=build /app/dist ./dist
 COPY package*.json ./
 
 RUN npm install gh-pages --save-dev
