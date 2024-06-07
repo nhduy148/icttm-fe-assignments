@@ -1,0 +1,2148 @@
+[
+  {
+    "shipments": 2379,
+    "weight": 542,
+    "teu": 2124,
+    "value-usd": 4048,
+    "code": "AF",
+    "region": "Asia",
+    "name": "Afghanistan"
+  },
+  {
+    "shipments": 6919,
+    "weight": 6563,
+    "teu": 5340,
+    "value-usd": 11532,
+    "code": "AL",
+    "region": "Europe",
+    "name": "Albania"
+  },
+  {
+    "shipments": 8122,
+    "weight": 4982,
+    "teu": 7608,
+    "value-usd": 37720,
+    "code": "DZ",
+    "region": "Africa",
+    "name": "Algeria"
+  },
+  {
+    "shipments": 569,
+    "weight": 613,
+    "teu": 432,
+    "value-usd": 16915,
+    "code": "AS",
+    "region": "Oceania",
+    "name": "American Samoa"
+  },
+  {
+    "shipments": 9856,
+    "weight": 3948,
+    "teu": 8182,
+    "value-usd": 17211,
+    "code": "AD",
+    "region": "Europe",
+    "name": "AndorrA"
+  },
+  {
+    "shipments": 5789,
+    "weight": 4048,
+    "teu": 4167,
+    "value-usd": 75756,
+    "code": "AO",
+    "region": "Africa",
+    "name": "Angola"
+  },
+  {
+    "shipments": 3079,
+    "weight": 702,
+    "teu": 1200,
+    "value-usd": 11970,
+    "code": "AI",
+    "region": "North America",
+    "name": "Anguilla"
+  },
+  {
+    "shipments": 3259,
+    "weight": 144,
+    "teu": 3390,
+    "value-usd": 424041,
+    "code": "AQ",
+    "region": "Antarctica",
+    "name": "Antarctica"
+  },
+  {
+    "shipments": 5503,
+    "weight": 9813,
+    "teu": 2516,
+    "value-usd": 63926,
+    "code": "AG",
+    "region": "North America",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "shipments": 2383,
+    "weight": 3526,
+    "teu": 2399,
+    "value-usd": 12602,
+    "code": "AR",
+    "region": "South America",
+    "name": "Argentina"
+  },
+  {
+    "shipments": 3453,
+    "weight": 984,
+    "teu": 2869,
+    "value-usd": 7684,
+    "code": "AM",
+    "region": "Asia",
+    "name": "Armenia"
+  },
+  {
+    "shipments": 8103,
+    "weight": 2574,
+    "teu": 4834,
+    "value-usd": 16022,
+    "code": "AW",
+    "region": "North America",
+    "name": "Aruba"
+  },
+  {
+    "shipments": 7653,
+    "weight": 13306,
+    "teu": 513,
+    "value-usd": 16949,
+    "code": "AU",
+    "region": "Oceania",
+    "name": "Australia"
+  },
+  {
+    "shipments": 9558,
+    "weight": 2262,
+    "teu": 903,
+    "value-usd": 43374,
+    "code": "AT",
+    "region": "Europe",
+    "name": "Austria"
+  },
+  {
+    "shipments": 7507,
+    "weight": 5062,
+    "teu": 3402,
+    "value-usd": 13552,
+    "code": "AZ",
+    "region": "Asia",
+    "name": "Azerbaijan"
+  },
+  {
+    "shipments": 1802,
+    "weight": 2784,
+    "teu": 413,
+    "value-usd": 6854,
+    "code": "BS",
+    "region": "North America",
+    "name": "Bahamas"
+  },
+  {
+    "shipments": 7979,
+    "weight": 4834,
+    "teu": 6875,
+    "value-usd": 36412,
+    "code": "BH",
+    "region": "Asia",
+    "name": "Bahrain"
+  },
+  {
+    "shipments": 699,
+    "weight": 958,
+    "teu": 763,
+    "value-usd": 36227,
+    "code": "BD",
+    "region": "Asia",
+    "name": "Bangladesh"
+  },
+  {
+    "shipments": 8533,
+    "weight": 13155,
+    "teu": 6091,
+    "value-usd": 14757,
+    "code": "BB",
+    "region": "North America",
+    "name": "Barbados"
+  },
+  {
+    "shipments": 6217,
+    "weight": 8295,
+    "teu": 2777,
+    "value-usd": 21890,
+    "code": "BY",
+    "region": "Europe",
+    "name": "Belarus"
+  },
+  {
+    "shipments": 1825,
+    "weight": 315,
+    "teu": 1523,
+    "value-usd": 2951,
+    "code": "BE",
+    "region": "Europe",
+    "name": "Belgium"
+  },
+  {
+    "shipments": 3512,
+    "weight": 2462,
+    "teu": 1452,
+    "value-usd": 16170,
+    "code": "BZ",
+    "region": "North America",
+    "name": "Belize"
+  },
+  {
+    "shipments": 4033,
+    "weight": 209,
+    "teu": 1173,
+    "value-usd": 6076,
+    "code": "BJ",
+    "region": "Africa",
+    "name": "Benin"
+  },
+  {
+    "shipments": 2390,
+    "weight": 2512,
+    "teu": 1571,
+    "value-usd": 8085,
+    "code": "BM",
+    "region": "North America",
+    "name": "Bermuda"
+  },
+  {
+    "shipments": 2048,
+    "weight": 3738,
+    "teu": 1213,
+    "value-usd": 13167,
+    "code": "BT",
+    "region": "Asia",
+    "name": "Bhutan"
+  },
+  {
+    "shipments": 35,
+    "weight": 23,
+    "teu": 36,
+    "value-usd": 324,
+    "code": "BO",
+    "region": "South America",
+    "name": "Bolivia"
+  },
+  {
+    "shipments": 6581,
+    "weight": 3370,
+    "teu": 5244,
+    "value-usd": 18185,
+    "code": "BA",
+    "region": "Europe",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "shipments": 8523,
+    "weight": 7572,
+    "teu": 8707,
+    "value-usd": 121179,
+    "code": "BW",
+    "region": "Africa",
+    "name": "Botswana"
+  },
+  {
+    "shipments": 2479,
+    "weight": 2903,
+    "teu": 614,
+    "value-usd": 16562,
+    "code": "BR",
+    "region": "South America",
+    "name": "Brazil"
+  },
+  {
+    "shipments": 9114,
+    "weight": 17037,
+    "teu": 2644,
+    "value-usd": 13955,
+    "code": "BN",
+    "region": "Asia",
+    "name": "Brunei Darussalam"
+  },
+  {
+    "shipments": 5372,
+    "weight": 7485,
+    "teu": 60,
+    "value-usd": 8602,
+    "code": "BG",
+    "region": "Europe",
+    "name": "Bulgaria"
+  },
+  {
+    "shipments": 3225,
+    "weight": 1666,
+    "teu": 1138,
+    "value-usd": 10758,
+    "code": "BF",
+    "region": "Africa",
+    "name": "Burkina Faso"
+  },
+  {
+    "shipments": 1001,
+    "weight": 1311,
+    "teu": 113,
+    "value-usd": 3232,
+    "code": "BI",
+    "region": "Africa",
+    "name": "Burundi"
+  },
+  {
+    "shipments": 1455,
+    "weight": 1326,
+    "teu": 1494,
+    "value-usd": 3506,
+    "code": "CV",
+    "region": "Africa",
+    "name": "Cape Verde"
+  },
+  {
+    "shipments": 5700,
+    "weight": 9387,
+    "teu": 4737,
+    "value-usd": 14161,
+    "code": "KH",
+    "region": "Asia",
+    "name": "Cambodia"
+  },
+  {
+    "shipments": 6033,
+    "weight": 10965,
+    "teu": 2677,
+    "value-usd": 74434,
+    "code": "CM",
+    "region": "Africa",
+    "name": "Cameroon"
+  },
+  {
+    "shipments": 6933,
+    "weight": 11419,
+    "teu": 31,
+    "value-usd": 111633,
+    "code": "CA",
+    "region": "North America",
+    "name": "Canada"
+  },
+  {
+    "shipments": 1756,
+    "weight": 601,
+    "teu": 703,
+    "value-usd": 4340,
+    "code": "KY",
+    "region": "North America",
+    "name": "Cayman Islands"
+  },
+  {
+    "shipments": 6279,
+    "weight": 7526,
+    "teu": 1973,
+    "value-usd": 13838,
+    "code": "CF",
+    "region": "Africa",
+    "name": "Central African Republic"
+  },
+  {
+    "shipments": 2271,
+    "weight": 4534,
+    "teu": 487,
+    "value-usd": 3762,
+    "code": "TD",
+    "region": "Africa",
+    "name": "Chad"
+  },
+  {
+    "shipments": 2795,
+    "weight": 5437,
+    "teu": 3047,
+    "value-usd": 368666,
+    "code": "CL",
+    "region": "South America",
+    "name": "Chile"
+  },
+  {
+    "shipments": 5766,
+    "weight": 8874,
+    "teu": 3096,
+    "value-usd": 16526,
+    "code": "CN",
+    "region": "Asia",
+    "name": "China"
+  },
+  {
+    "shipments": 6418,
+    "weight": 5214,
+    "teu": 1590,
+    "value-usd": 9632,
+    "code": "CX",
+    "region": "Oceania",
+    "name": "Christmas Island"
+  },
+  {
+    "shipments": 967,
+    "weight": 628,
+    "teu": 681,
+    "value-usd": 309,
+    "code": "CC",
+    "region": "Oceania",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "shipments": 9794,
+    "weight": 12215,
+    "teu": 3622,
+    "value-usd": 39319,
+    "code": "CO",
+    "region": "South America",
+    "name": "Colombia"
+  },
+  {
+    "shipments": 5691,
+    "weight": 8921,
+    "teu": 4283,
+    "value-usd": 13091,
+    "code": "KM",
+    "region": "Africa",
+    "name": "Comoros"
+  },
+  {
+    "shipments": 3351,
+    "weight": 4833,
+    "teu": 3588,
+    "value-usd": 5765,
+    "code": "CG",
+    "region": "Africa",
+    "name": "Congo"
+  },
+  {
+    "shipments": 4840,
+    "weight": 1223,
+    "teu": 2685,
+    "value-usd": 12643,
+    "code": "CD",
+    "region": "Africa",
+    "name": "Congo, The Democratic Republic of the"
+  },
+  {
+    "shipments": 875,
+    "weight": 144,
+    "teu": 182,
+    "value-usd": 1822,
+    "code": "CK",
+    "region": "Oceania",
+    "name": "Cook Islands"
+  },
+  {
+    "shipments": 714,
+    "weight": 223,
+    "teu": 124,
+    "value-usd": 1163,
+    "code": "CR",
+    "region": "North America",
+    "name": "Costa Rica"
+  },
+  {
+    "shipments": 712,
+    "weight": 999,
+    "teu": 345,
+    "value-usd": 1473,
+    "code": "CI",
+    "region": "Africa",
+    "name": "Cote D’Ivoire"
+  },
+  {
+    "shipments": 6168,
+    "weight": 1424,
+    "teu": 6237,
+    "value-usd": 24013,
+    "code": "HR",
+    "region": "Europe",
+    "name": "Croatia"
+  },
+  {
+    "shipments": 3407,
+    "weight": 5364,
+    "teu": 2518,
+    "value-usd": 8309,
+    "code": "CU",
+    "region": "North America",
+    "name": "Cuba"
+  },
+  {
+    "shipments": 9130,
+    "weight": 4008,
+    "teu": 888,
+    "value-usd": 20952,
+    "code": "CY",
+    "region": "Asia",
+    "name": "Cyprus"
+  },
+  {
+    "shipments": 9737,
+    "weight": 6635,
+    "teu": 6408,
+    "value-usd": 15573,
+    "code": "CZ",
+    "region": "Europe",
+    "name": "Czech Republic"
+  },
+  {
+    "shipments": 6750,
+    "weight": 12792,
+    "teu": 6761,
+    "value-usd": 17326,
+    "code": "DK",
+    "region": "Europe",
+    "name": "Denmark"
+  },
+  {
+    "shipments": 4105,
+    "weight": 6717,
+    "teu": 2191,
+    "value-usd": 7183,
+    "code": "DJ",
+    "region": "Africa",
+    "name": "Djibouti"
+  },
+  {
+    "shipments": 5254,
+    "weight": 4694,
+    "teu": 2475,
+    "value-usd": 9204,
+    "code": "DM",
+    "region": "North America",
+    "name": "Dominica"
+  },
+  {
+    "shipments": 8341,
+    "weight": 10109,
+    "teu": 1524,
+    "value-usd": 16486,
+    "code": "DO",
+    "region": "North America",
+    "name": "Dominican Republic"
+  },
+  {
+    "shipments": 5553,
+    "weight": 7718,
+    "teu": 1781,
+    "value-usd": 19419,
+    "code": "EC",
+    "region": "South America",
+    "name": "Ecuador"
+  },
+  {
+    "shipments": 7778,
+    "weight": 9334,
+    "teu": 881,
+    "value-usd": 11929,
+    "code": "EG",
+    "region": "Africa",
+    "name": "Egypt"
+  },
+  {
+    "shipments": 9776,
+    "weight": 3470,
+    "teu": 6950,
+    "value-usd": 19332,
+    "code": "SV",
+    "region": "North America",
+    "name": "El Salvador"
+  },
+  {
+    "shipments": 7202,
+    "weight": 3196,
+    "teu": 3880,
+    "value-usd": 12335,
+    "code": "GQ",
+    "region": "Africa",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "shipments": 2239,
+    "weight": 3647,
+    "teu": 940,
+    "value-usd": 4542,
+    "code": "ER",
+    "region": "Africa",
+    "name": "Eritrea"
+  },
+  {
+    "shipments": 4511,
+    "weight": 2163,
+    "teu": 2434,
+    "value-usd": 23260,
+    "code": "EE",
+    "region": "Europe",
+    "name": "Estonia"
+  },
+  {
+    "shipments": 3467,
+    "weight": 2666,
+    "teu": 359,
+    "value-usd": 8154,
+    "code": "SZ",
+    "region": "Africa",
+    "name": "Swaziland"
+  },
+  {
+    "shipments": 4118,
+    "weight": 3536,
+    "teu": 749,
+    "value-usd": 7289,
+    "code": "ET",
+    "region": "Africa",
+    "name": "Ethiopia"
+  },
+  {
+    "shipments": 119,
+    "weight": 25,
+    "teu": 126,
+    "value-usd": 2030,
+    "code": "FK",
+    "region": "South America",
+    "name": "Falkland Islands (Malvinas)"
+  },
+  {
+    "shipments": 942,
+    "weight": 341,
+    "teu": 283,
+    "value-usd": 269,
+    "code": "FO",
+    "region": "Europe",
+    "name": "Faroe Islands"
+  },
+  {
+    "shipments": 4060,
+    "weight": 7671,
+    "teu": 1246,
+    "value-usd": 15782,
+    "code": "FJ",
+    "region": "Oceania",
+    "name": "Fiji"
+  },
+  {
+    "shipments": 3178,
+    "weight": 3081,
+    "teu": 2631,
+    "value-usd": 5925,
+    "code": "FI",
+    "region": "Europe",
+    "name": "Finland"
+  },
+  {
+    "shipments": 7915,
+    "weight": 9003,
+    "teu": 498,
+    "value-usd": 15977,
+    "code": "FR",
+    "region": "Europe",
+    "name": "France"
+  },
+  {
+    "shipments": 223,
+    "weight": 446,
+    "teu": 113,
+    "value-usd": 1375,
+    "code": "GF",
+    "region": "South America",
+    "name": "French Guiana"
+  },
+  {
+    "shipments": 881,
+    "weight": 895,
+    "teu": 936,
+    "value-usd": 2435,
+    "code": "PF",
+    "region": "Oceania",
+    "name": "French Polynesia"
+  },
+  {
+    "shipments": 6161,
+    "weight": 11689,
+    "teu": 1524,
+    "value-usd": 43526,
+    "code": "GA",
+    "region": "Africa",
+    "name": "Gabon"
+  },
+  {
+    "shipments": 2334,
+    "weight": 4309,
+    "teu": 1952,
+    "value-usd": 10032,
+    "code": "GM",
+    "region": "Africa",
+    "name": "Gambia"
+  },
+  {
+    "shipments": 6284,
+    "weight": 1894,
+    "teu": 3884,
+    "value-usd": 12177,
+    "code": "GE",
+    "region": "Asia",
+    "name": "Georgia"
+  },
+  {
+    "shipments": 4238,
+    "weight": 8053,
+    "teu": 875,
+    "value-usd": 9530,
+    "code": "DE",
+    "region": "Europe",
+    "name": "Germany"
+  },
+  {
+    "shipments": 7212,
+    "weight": 12397,
+    "teu": 426,
+    "value-usd": 18399,
+    "code": "GH",
+    "region": "Africa",
+    "name": "Ghana"
+  },
+  {
+    "shipments": 6526,
+    "weight": 860,
+    "teu": 2657,
+    "value-usd": 11243,
+    "code": "GI",
+    "region": "Europe",
+    "name": "Gibraltar"
+  },
+  {
+    "shipments": 7747,
+    "weight": 6152,
+    "teu": 1490,
+    "value-usd": 43071,
+    "code": "GR",
+    "region": "Europe",
+    "name": "Greece"
+  },
+  {
+    "shipments": 1294,
+    "weight": 2507,
+    "teu": 788,
+    "value-usd": 3342,
+    "code": "GL",
+    "region": "North America",
+    "name": "Greenland"
+  },
+  {
+    "shipments": 7230,
+    "weight": 302,
+    "teu": 2592,
+    "value-usd": 34704,
+    "code": "GD",
+    "region": "North America",
+    "name": "Grenada"
+  },
+  {
+    "shipments": 8664,
+    "weight": 10391,
+    "teu": 2049,
+    "value-usd": 14001,
+    "code": "GP",
+    "region": "North America",
+    "name": "Guadeloupe"
+  },
+  {
+    "shipments": 3008,
+    "weight": 3232,
+    "teu": 1690,
+    "value-usd": 14179,
+    "code": "GU",
+    "region": "Oceania",
+    "name": "Guam"
+  },
+  {
+    "shipments": 1246,
+    "weight": 1712,
+    "teu": 46,
+    "value-usd": 2688,
+    "code": "GT",
+    "region": "North America",
+    "name": "Guatemala"
+  },
+  {
+    "shipments": 4777,
+    "weight": 8437,
+    "teu": 4559,
+    "value-usd": 21123,
+    "code": "GN",
+    "region": "Africa",
+    "name": "Guinea"
+  },
+  {
+    "shipments": 9952,
+    "weight": 13696,
+    "teu": 10622,
+    "value-usd": 33464,
+    "code": "GW",
+    "region": "Africa",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "shipments": 169,
+    "weight": 197,
+    "teu": 73,
+    "value-usd": 17906,
+    "code": "GY",
+    "region": "South America",
+    "name": "Guyana"
+  },
+  {
+    "shipments": 5065,
+    "weight": 6808,
+    "teu": 400,
+    "value-usd": 8199,
+    "code": "HT",
+    "region": "North America",
+    "name": "Haiti"
+  },
+  {
+    "shipments": 8925,
+    "weight": 5446,
+    "teu": 6382,
+    "value-usd": 13550,
+    "code": "HM",
+    "region": "Antarctica",
+    "name": "Heard Island and Mcdonald Islands"
+  },
+  {
+    "shipments": 9747,
+    "weight": 15182,
+    "teu": 574,
+    "value-usd": 29217,
+    "code": "VA",
+    "region": "Europe",
+    "name": "Holy See (Vatican City State)"
+  },
+  {
+    "shipments": 5503,
+    "weight": 9034,
+    "teu": 1076,
+    "value-usd": 21792,
+    "code": "HN",
+    "region": "North America",
+    "name": "Honduras"
+  },
+  {
+    "shipments": 952,
+    "weight": 616,
+    "teu": 771,
+    "value-usd": 347,
+    "code": "HK",
+    "region": "Asia",
+    "name": "Hong Kong"
+  },
+  {
+    "shipments": 9985,
+    "weight": 11957,
+    "teu": 8908,
+    "value-usd": 32820,
+    "code": "HU",
+    "region": "Europe",
+    "name": "Hungary"
+  },
+  {
+    "shipments": 8869,
+    "weight": 9998,
+    "teu": 9002,
+    "value-usd": 20316,
+    "code": "IS",
+    "region": "Europe",
+    "name": "Iceland"
+  },
+  {
+    "shipments": 1393,
+    "weight": 1684,
+    "teu": 785,
+    "value-usd": 2370,
+    "code": "IN",
+    "region": "Asia",
+    "name": "India"
+  },
+  {
+    "shipments": 5193,
+    "weight": 4719,
+    "teu": 4334,
+    "value-usd": 22523,
+    "code": "ID",
+    "region": "Asia",
+    "name": "Indonesia"
+  },
+  {
+    "shipments": 2468,
+    "weight": 4419,
+    "teu": 1717,
+    "value-usd": 4883,
+    "code": "IR",
+    "region": "Asia",
+    "name": "Iran, Islamic Republic Of"
+  },
+  {
+    "shipments": 2402,
+    "weight": 4702,
+    "teu": 1226,
+    "value-usd": 4019,
+    "code": "IQ",
+    "region": "Asia",
+    "name": "Iraq"
+  },
+  {
+    "shipments": 9756,
+    "weight": 4912,
+    "teu": 5591,
+    "value-usd": 15717,
+    "code": "IE",
+    "region": "Europe",
+    "name": "Ireland"
+  },
+  {
+    "shipments": 528,
+    "weight": 339,
+    "teu": 190,
+    "value-usd": 1446,
+    "code": "IL",
+    "region": "Asia",
+    "name": "Israel"
+  },
+  {
+    "shipments": 4875,
+    "weight": 1582,
+    "teu": 5160,
+    "value-usd": 50653,
+    "code": "IT",
+    "region": "Europe",
+    "name": "Italy"
+  },
+  {
+    "shipments": 9888,
+    "weight": 5120,
+    "teu": 5937,
+    "value-usd": 39068,
+    "code": "JM",
+    "region": "North America",
+    "name": "Jamaica"
+  },
+  {
+    "shipments": 5067,
+    "weight": 6711,
+    "teu": 3136,
+    "value-usd": 9308,
+    "code": "JP",
+    "region": "Asia",
+    "name": "Japan"
+  },
+  {
+    "shipments": 1411,
+    "weight": 563,
+    "teu": 208,
+    "value-usd": 5667,
+    "code": "JO",
+    "region": "Asia",
+    "name": "Jordan"
+  },
+  {
+    "shipments": 8317,
+    "weight": 4544,
+    "teu": 6547,
+    "value-usd": 209063,
+    "code": "KZ",
+    "region": "Asia",
+    "name": "Kazakhstan"
+  },
+  {
+    "shipments": 5996,
+    "weight": 5165,
+    "teu": 1264,
+    "value-usd": 22096,
+    "code": "KE",
+    "region": "Africa",
+    "name": "Kenya"
+  },
+  {
+    "shipments": 8102,
+    "weight": 39,
+    "teu": 5577,
+    "value-usd": 22744,
+    "code": "KI",
+    "region": "Oceania",
+    "name": "Kiribati"
+  },
+  {
+    "shipments": 4197,
+    "weight": 6297,
+    "teu": 354,
+    "value-usd": 17741,
+    "code": "KP",
+    "region": "Asia",
+    "name": "Korea, Democratic People’s Republic of"
+  },
+  {
+    "shipments": 7000,
+    "weight": 12440,
+    "teu": 2330,
+    "value-usd": 10805,
+    "code": "KR",
+    "region": "Asia",
+    "name": "Korea, Republic of"
+  },
+  {
+    "shipments": 8045,
+    "weight": 5357,
+    "teu": 6535,
+    "value-usd": 164411,
+    "code": "KW",
+    "region": "Asia",
+    "name": "Kuwait"
+  },
+  {
+    "shipments": 6244,
+    "weight": 8607,
+    "teu": 2882,
+    "value-usd": 20825,
+    "code": "KG",
+    "region": "Asia",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "shipments": 1750,
+    "weight": 369,
+    "teu": 159,
+    "value-usd": 5519,
+    "code": "LA",
+    "region": "Asia",
+    "name": "Lao People’s Democratic Republic"
+  },
+  {
+    "shipments": 7819,
+    "weight": 2356,
+    "teu": 3503,
+    "value-usd": 19521,
+    "code": "LV",
+    "region": "Europe",
+    "name": "Latvia"
+  },
+  {
+    "shipments": 4951,
+    "weight": 2555,
+    "teu": 4068,
+    "value-usd": 7636,
+    "code": "LB",
+    "region": "Asia",
+    "name": "Lebanon"
+  },
+  {
+    "shipments": 7373,
+    "weight": 13229,
+    "teu": 7915,
+    "value-usd": 43534,
+    "code": "LS",
+    "region": "Africa",
+    "name": "Lesotho"
+  },
+  {
+    "shipments": 3895,
+    "weight": 5617,
+    "teu": 1812,
+    "value-usd": 16930,
+    "code": "LR",
+    "region": "Africa",
+    "name": "Liberia"
+  },
+  {
+    "shipments": 6924,
+    "weight": 5651,
+    "teu": 5766,
+    "value-usd": 32264,
+    "code": "LY",
+    "region": "Africa",
+    "name": "Libyan Arab Jamahiriya"
+  },
+  {
+    "shipments": 5199,
+    "weight": 1067,
+    "teu": 3063,
+    "value-usd": 7841,
+    "code": "LI",
+    "region": "Europe",
+    "name": "Liechtenstein"
+  },
+  {
+    "shipments": 6455,
+    "weight": 12799,
+    "teu": 4621,
+    "value-usd": 18399,
+    "code": "LT",
+    "region": "Europe",
+    "name": "Lithuania"
+  },
+  {
+    "shipments": 407,
+    "weight": 517,
+    "teu": 115,
+    "value-usd": 785,
+    "code": "LU",
+    "region": "Europe",
+    "name": "Luxembourg"
+  },
+  {
+    "shipments": 1898,
+    "weight": 329,
+    "teu": 1384,
+    "value-usd": 4336,
+    "code": "MO",
+    "region": "Asia",
+    "name": "Macao"
+  },
+  {
+    "shipments": 4103,
+    "weight": 5160,
+    "teu": 4090,
+    "value-usd": 7786,
+    "code": "MK",
+    "region": "Europe",
+    "name": "Macedonia, The Former Yugoslav Republic of"
+  },
+  {
+    "shipments": 6777,
+    "weight": 9641,
+    "teu": 5940,
+    "value-usd": 12162,
+    "code": "MG",
+    "region": "Africa",
+    "name": "Madagascar"
+  },
+  {
+    "shipments": 1239,
+    "weight": 495,
+    "teu": 807,
+    "value-usd": 4492,
+    "code": "MW",
+    "region": "Africa",
+    "name": "Malawi"
+  },
+  {
+    "shipments": 6116,
+    "weight": 11767,
+    "teu": 1716,
+    "value-usd": 22049,
+    "code": "MY",
+    "region": "Asia",
+    "name": "Malaysia"
+  },
+  {
+    "shipments": 6361,
+    "weight": 11877,
+    "teu": 745,
+    "value-usd": 23268,
+    "code": "MV",
+    "region": "Asia",
+    "name": "Maldives"
+  },
+  {
+    "shipments": 2392,
+    "weight": 450,
+    "teu": 447,
+    "value-usd": 13731,
+    "code": "ML",
+    "region": "Africa",
+    "name": "Mali"
+  },
+  {
+    "shipments": 5090,
+    "weight": 1888,
+    "teu": 2572,
+    "value-usd": 8802,
+    "code": "MT",
+    "region": "Europe",
+    "name": "Malta"
+  },
+  {
+    "shipments": 186,
+    "weight": 71,
+    "teu": 135,
+    "value-usd": 457,
+    "code": "MH",
+    "region": "Oceania",
+    "name": "Marshall Islands"
+  },
+  {
+    "shipments": 8698,
+    "weight": 14856,
+    "teu": 5663,
+    "value-usd": 36507,
+    "code": "MQ",
+    "region": "North America",
+    "name": "Martinique"
+  },
+  {
+    "shipments": 2551,
+    "weight": 3768,
+    "teu": 2633,
+    "value-usd": 9819,
+    "code": "MR",
+    "region": "Africa",
+    "name": "Mauritania"
+  },
+  {
+    "shipments": 4966,
+    "weight": 6469,
+    "teu": 4184,
+    "value-usd": 13856,
+    "code": "MU",
+    "region": "Africa",
+    "name": "Mauritius"
+  },
+  {
+    "shipments": 4598,
+    "weight": 1378,
+    "teu": 3754,
+    "value-usd": 7807,
+    "code": "YT",
+    "region": "Africa",
+    "name": "Mayotte"
+  },
+  {
+    "shipments": 8422,
+    "weight": 2815,
+    "teu": 843,
+    "value-usd": 16823,
+    "code": "MX",
+    "region": "North America",
+    "name": "Mexico"
+  },
+  {
+    "shipments": 7039,
+    "weight": 9313,
+    "teu": 855,
+    "value-usd": 13314,
+    "code": "FM",
+    "region": "Oceania",
+    "name": "Micronesia, Federated States of"
+  },
+  {
+    "shipments": 6320,
+    "weight": 7658,
+    "teu": 4943,
+    "value-usd": 10924,
+    "code": "MD",
+    "region": "Europe",
+    "name": "Moldova, Republic of"
+  },
+  {
+    "shipments": 255,
+    "weight": 366,
+    "teu": 161,
+    "value-usd": 795,
+    "code": "MC",
+    "region": "Europe",
+    "name": "Monaco"
+  },
+  {
+    "shipments": 5663,
+    "weight": 3762,
+    "teu": 756,
+    "value-usd": 13394,
+    "code": "MN",
+    "region": "Asia",
+    "name": "Mongolia"
+  },
+  {
+    "shipments": 7257,
+    "weight": 12415,
+    "teu": 6437,
+    "value-usd": 13021,
+    "code": "ME",
+    "region": "Europe"
+  },
+  {
+    "shipments": 8144,
+    "weight": 5632,
+    "teu": 8067,
+    "value-usd": 13690,
+    "code": "MS",
+    "region": "North America",
+    "name": "Montserrat"
+  },
+  {
+    "shipments": 6014,
+    "weight": 1677,
+    "teu": 6131,
+    "value-usd": 10389,
+    "code": "MA",
+    "region": "Africa",
+    "name": "Morocco"
+  },
+  {
+    "shipments": 2104,
+    "weight": 3531,
+    "teu": 2222,
+    "value-usd": 8332,
+    "code": "MZ",
+    "region": "Africa",
+    "name": "Mozambique"
+  },
+  {
+    "shipments": 1948,
+    "weight": 2627,
+    "teu": 594,
+    "value-usd": 4375,
+    "code": "MM",
+    "region": "Asia",
+    "name": "Myanmar"
+  },
+  {
+    "shipments": 837,
+    "weight": 486,
+    "teu": 118,
+    "value-usd": 1392,
+    "code": "NA",
+    "region": "Africa",
+    "name": "Namibia"
+  },
+  {
+    "shipments": 721,
+    "weight": 702,
+    "teu": 173,
+    "value-usd": 7969,
+    "code": "NR",
+    "region": "Oceania",
+    "name": "Nauru"
+  },
+  {
+    "shipments": 6330,
+    "weight": 5117,
+    "teu": 536,
+    "value-usd": 24792,
+    "code": "NP",
+    "region": "Asia",
+    "name": "Nepal"
+  },
+  {
+    "shipments": 7288,
+    "weight": 10901,
+    "teu": 4246,
+    "value-usd": 21520,
+    "code": "NL",
+    "region": "Europe",
+    "name": "Netherlands"
+  },
+  {
+    "shipments": 6095,
+    "weight": 5387,
+    "teu": 208,
+    "value-usd": 32829,
+    "code": "NC",
+    "region": "Oceania",
+    "name": "New Caledonia"
+  },
+  {
+    "shipments": 457,
+    "weight": 73,
+    "teu": 283,
+    "value-usd": 957,
+    "code": "NZ",
+    "region": "Oceania",
+    "name": "New Zealand"
+  },
+  {
+    "shipments": 5732,
+    "weight": 678,
+    "teu": 3366,
+    "value-usd": 75384,
+    "code": "NI",
+    "region": "North America",
+    "name": "Nicaragua"
+  },
+  {
+    "shipments": 427,
+    "weight": 596,
+    "teu": 411,
+    "value-usd": 2773,
+    "code": "NE",
+    "region": "Africa",
+    "name": "Niger"
+  },
+  {
+    "shipments": 3710,
+    "weight": 5191,
+    "teu": 3302,
+    "value-usd": 6994,
+    "code": "NG",
+    "region": "Africa",
+    "name": "Nigeria"
+  },
+  {
+    "shipments": 743,
+    "weight": 738,
+    "teu": 241,
+    "value-usd": 117,
+    "code": "NU",
+    "region": "Oceania",
+    "name": "Niue"
+  },
+  {
+    "shipments": 5244,
+    "weight": 439,
+    "teu": 4817,
+    "value-usd": 108512,
+    "code": "NF",
+    "region": "Oceania",
+    "name": "Norfolk Island"
+  },
+  {
+    "shipments": 7394,
+    "weight": 10030,
+    "teu": 2138,
+    "value-usd": 20693,
+    "code": "MP",
+    "region": "Oceania",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "shipments": 3633,
+    "weight": 6451,
+    "teu": 1913,
+    "value-usd": 10203,
+    "code": "NO",
+    "region": "Europe",
+    "name": "Norway"
+  },
+  {
+    "shipments": 2557,
+    "weight": 1411,
+    "teu": 320,
+    "value-usd": 12361,
+    "code": "OM",
+    "region": "Asia",
+    "name": "Oman"
+  },
+  {
+    "shipments": 523,
+    "weight": 252,
+    "teu": 228,
+    "value-usd": 28396,
+    "code": "PK",
+    "region": "Asia",
+    "name": "Pakistan"
+  },
+  {
+    "shipments": 4693,
+    "weight": 561,
+    "teu": 4589,
+    "value-usd": 9889,
+    "code": "PW",
+    "region": "Oceania",
+    "name": "Palau"
+  },
+  {
+    "shipments": 6264,
+    "weight": 10348,
+    "teu": 5243,
+    "value-usd": 9740,
+    "code": "PS",
+    "region": "Asia",
+    "name": "Palestinian Territory, Occupied"
+  },
+  {
+    "shipments": 4824,
+    "weight": 9425,
+    "teu": 2058,
+    "value-usd": 192097,
+    "code": "PA",
+    "region": "North America",
+    "name": "Panama"
+  },
+  {
+    "shipments": 6863,
+    "weight": 6711,
+    "teu": 6108,
+    "value-usd": 43772,
+    "code": "PG",
+    "region": "Oceania",
+    "name": "Papua New Guinea"
+  },
+  {
+    "shipments": 6949,
+    "weight": 10364,
+    "teu": 2785,
+    "value-usd": 15261,
+    "code": "PY",
+    "region": "South America",
+    "name": "Paraguay"
+  },
+  {
+    "shipments": 967,
+    "weight": 1081,
+    "teu": 15,
+    "value-usd": 1913,
+    "code": "PE",
+    "region": "South America",
+    "name": "Peru"
+  },
+  {
+    "shipments": 6035,
+    "weight": 11352,
+    "teu": 4354,
+    "value-usd": 9626,
+    "code": "PH",
+    "region": "Asia",
+    "name": "Philippines"
+  },
+  {
+    "shipments": 76,
+    "weight": 15,
+    "teu": 66,
+    "value-usd": 136,
+    "code": "PN",
+    "region": "Oceania",
+    "name": "Pitcairn"
+  },
+  {
+    "shipments": 9610,
+    "weight": 3845,
+    "teu": 5634,
+    "value-usd": 21438,
+    "code": "PL",
+    "region": "Europe",
+    "name": "Poland"
+  },
+  {
+    "shipments": 3875,
+    "weight": 4991,
+    "teu": 4233,
+    "value-usd": 9458,
+    "code": "PT",
+    "region": "Europe",
+    "name": "Portugal"
+  },
+  {
+    "shipments": 3840,
+    "weight": 2295,
+    "teu": 8,
+    "value-usd": 81108,
+    "code": "PR",
+    "region": "North America",
+    "name": "Puerto Rico"
+  },
+  {
+    "shipments": 7402,
+    "weight": 13909,
+    "teu": 2484,
+    "value-usd": 13330,
+    "code": "QA",
+    "region": "Asia",
+    "name": "Qatar"
+  },
+  {
+    "shipments": 6091,
+    "weight": 4474,
+    "teu": 5514,
+    "value-usd": 23360,
+    "code": "RE",
+    "region": "Africa",
+    "name": "Reunion"
+  },
+  {
+    "shipments": 1080,
+    "weight": 445,
+    "teu": 508,
+    "value-usd": 62690,
+    "code": "RO",
+    "region": "Europe",
+    "name": "Romania"
+  },
+  {
+    "shipments": 8045,
+    "weight": 4474,
+    "teu": 561,
+    "value-usd": 38251,
+    "code": "RU",
+    "region": "Europe",
+    "name": "Russian Federation"
+  },
+  {
+    "shipments": 668,
+    "weight": 1215,
+    "teu": 426,
+    "value-usd": 5495,
+    "code": "RW",
+    "region": "Africa",
+    "name": "RWANDA"
+  },
+  {
+    "shipments": 8353,
+    "weight": 15735,
+    "teu": 1854,
+    "value-usd": 13924,
+    "code": "BL",
+    "region": "North America"
+  },
+  {
+    "shipments": 3903,
+    "weight": 3132,
+    "teu": 2069,
+    "value-usd": 31550,
+    "code": "SH",
+    "region": "Africa",
+    "name": "Saint Helena"
+  },
+  {
+    "shipments": 2291,
+    "weight": 2514,
+    "teu": 429,
+    "value-usd": 11178,
+    "code": "KN",
+    "region": "North America",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "shipments": 8879,
+    "weight": 4410,
+    "teu": 6040,
+    "value-usd": 672205,
+    "code": "LC",
+    "region": "North America",
+    "name": "Saint Lucia"
+  },
+  {
+    "shipments": 899,
+    "weight": 989,
+    "teu": 805,
+    "value-usd": 245,
+    "code": "MF",
+    "region": "North America"
+  },
+  {
+    "shipments": 749,
+    "weight": 1331,
+    "teu": 498,
+    "value-usd": 1249,
+    "code": "PM",
+    "region": "North America",
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "shipments": 3681,
+    "weight": 1562,
+    "teu": 1637,
+    "value-usd": 35354,
+    "code": "VC",
+    "region": "North America",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "shipments": 3372,
+    "weight": 3895,
+    "teu": 805,
+    "value-usd": 233194,
+    "code": "WS",
+    "region": "Oceania",
+    "name": "Samoa"
+  },
+  {
+    "shipments": 2114,
+    "weight": 3992,
+    "teu": 2196,
+    "value-usd": 5241,
+    "code": "SM",
+    "region": "Europe",
+    "name": "San Marino"
+  },
+  {
+    "shipments": 8903,
+    "weight": 8127,
+    "teu": 5755,
+    "value-usd": 30359,
+    "code": "ST",
+    "region": "Africa",
+    "name": "Sao Tome and Principe"
+  },
+  {
+    "shipments": 4542,
+    "weight": 5167,
+    "teu": 1213,
+    "value-usd": 108128,
+    "code": "SA",
+    "region": "Asia",
+    "name": "Saudi Arabia"
+  },
+  {
+    "shipments": 1234,
+    "weight": 2142,
+    "teu": 1049,
+    "value-usd": 10439,
+    "code": "SN",
+    "region": "Africa",
+    "name": "Senegal"
+  },
+  {
+    "shipments": 9846,
+    "weight": 8483,
+    "teu": 6696,
+    "value-usd": 56409,
+    "code": "RS",
+    "region": "Europe",
+    "name": "Serbia"
+  },
+  {
+    "shipments": 7460,
+    "weight": 831,
+    "teu": 5745,
+    "value-usd": 110883,
+    "code": "SC",
+    "region": "Africa",
+    "name": "Seychelles"
+  },
+  {
+    "shipments": 6550,
+    "weight": 2571,
+    "teu": 5184,
+    "value-usd": 77975,
+    "code": "SL",
+    "region": "Africa",
+    "name": "Sierra Leone"
+  },
+  {
+    "shipments": 4364,
+    "weight": 2930,
+    "teu": 3443,
+    "value-usd": 227736,
+    "code": "SG",
+    "region": "Asia",
+    "name": "Singapore"
+  },
+  {
+    "shipments": 128,
+    "weight": 157,
+    "teu": 16,
+    "value-usd": 343,
+    "code": "SX",
+    "region": "North America"
+  },
+  {
+    "shipments": 3342,
+    "weight": 3049,
+    "teu": 1198,
+    "value-usd": 7209,
+    "code": "SK",
+    "region": "Europe",
+    "name": "Slovakia"
+  },
+  {
+    "shipments": 6740,
+    "weight": 10792,
+    "teu": 4077,
+    "value-usd": 23035,
+    "code": "SI",
+    "region": "Europe",
+    "name": "Slovenia"
+  },
+  {
+    "shipments": 113,
+    "weight": 212,
+    "teu": 6,
+    "value-usd": 194,
+    "code": "SB",
+    "region": "Oceania",
+    "name": "Solomon Islands"
+  },
+  {
+    "shipments": 3162,
+    "weight": 3416,
+    "teu": 2439,
+    "value-usd": 30160,
+    "code": "SO",
+    "region": "Africa",
+    "name": "Somalia"
+  },
+  {
+    "shipments": 4762,
+    "weight": 6788,
+    "teu": 4122,
+    "value-usd": 24319,
+    "code": "ZA",
+    "region": "Africa",
+    "name": "South Africa"
+  },
+  {
+    "shipments": 5498,
+    "weight": 10637,
+    "teu": 675,
+    "value-usd": 9685,
+    "code": "GS",
+    "region": "Antarctica",
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "shipments": 5040,
+    "weight": 2057,
+    "teu": 5300,
+    "value-usd": 8584,
+    "code": "SS",
+    "region": "Africa"
+  },
+  {
+    "shipments": 2192,
+    "weight": 584,
+    "teu": 2246,
+    "value-usd": 6627,
+    "code": "ES",
+    "region": "Europe",
+    "name": "Spain"
+  },
+  {
+    "shipments": 6827,
+    "weight": 6774,
+    "teu": 384,
+    "value-usd": 15010,
+    "code": "LK",
+    "region": "Asia",
+    "name": "Sri Lanka"
+  },
+  {
+    "shipments": 7240,
+    "weight": 8248,
+    "teu": 524,
+    "value-usd": 121862,
+    "code": "SD",
+    "region": "Africa",
+    "name": "Sudan"
+  },
+  {
+    "shipments": 1480,
+    "weight": 104,
+    "teu": 390,
+    "value-usd": 6544,
+    "code": "SR",
+    "region": "South America",
+    "name": "Suriname"
+  },
+  {
+    "shipments": 5286,
+    "weight": 8889,
+    "teu": 1977,
+    "value-usd": 26721,
+    "code": "SJ",
+    "region": "Europe",
+    "name": "Svalbard and Jan Mayen"
+  },
+  {
+    "shipments": 1261,
+    "weight": 1386,
+    "teu": 1346,
+    "value-usd": 42842,
+    "code": "SE",
+    "region": "Europe",
+    "name": "Sweden"
+  },
+  {
+    "shipments": 2676,
+    "weight": 5220,
+    "teu": 1099,
+    "value-usd": 4667,
+    "code": "CH",
+    "region": "Europe",
+    "name": "Switzerland"
+  },
+  {
+    "shipments": 3664,
+    "weight": 3163,
+    "teu": 3933,
+    "value-usd": 9346,
+    "code": "SY",
+    "region": "Asia",
+    "name": "Syrian Arab Republic"
+  },
+  {
+    "shipments": 8582,
+    "weight": 5765,
+    "teu": 8793,
+    "value-usd": 15244,
+    "code": "TW",
+    "region": "Asia",
+    "name": "Taiwan, Province of China"
+  },
+  {
+    "shipments": 7169,
+    "weight": 5304,
+    "teu": 7423,
+    "value-usd": 15139,
+    "code": "TJ",
+    "region": "Asia",
+    "name": "Tajikistan"
+  },
+  {
+    "shipments": 7758,
+    "weight": 10649,
+    "teu": 5219,
+    "value-usd": 682911,
+    "code": "TZ",
+    "region": "Africa",
+    "name": "Tanzania, United Republic of"
+  },
+  {
+    "shipments": 9606,
+    "weight": 14458,
+    "teu": 1983,
+    "value-usd": 14419,
+    "code": "TH",
+    "region": "Asia",
+    "name": "Thailand"
+  },
+  {
+    "shipments": 960,
+    "weight": 651,
+    "teu": 851,
+    "value-usd": 2386,
+    "code": "TL",
+    "region": "Asia",
+    "name": "Timor-Leste"
+  },
+  {
+    "shipments": 241,
+    "weight": 263,
+    "teu": 129,
+    "value-usd": 385,
+    "code": "TG",
+    "region": "Africa",
+    "name": "Togo"
+  },
+  {
+    "shipments": 6275,
+    "weight": 10625,
+    "teu": 4567,
+    "value-usd": 28507,
+    "code": "TK",
+    "region": "Oceania",
+    "name": "Tokelau"
+  },
+  {
+    "shipments": 3974,
+    "weight": 5873,
+    "teu": 1274,
+    "value-usd": 39442,
+    "code": "TO",
+    "region": "Oceania",
+    "name": "Tonga"
+  },
+  {
+    "shipments": 383,
+    "weight": 209,
+    "teu": 207,
+    "value-usd": 1075,
+    "code": "TT",
+    "region": "North America",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "shipments": 7392,
+    "weight": 10072,
+    "teu": 6837,
+    "value-usd": 34432,
+    "code": "TN",
+    "region": "Africa",
+    "name": "Tunisia"
+  },
+  {
+    "shipments": 4603,
+    "weight": 6447,
+    "teu": 3537,
+    "value-usd": 9931,
+    "code": "TR",
+    "region": "Asia",
+    "name": "Turkey"
+  },
+  {
+    "shipments": 346,
+    "weight": 488,
+    "teu": 195,
+    "value-usd": 714,
+    "code": "TM",
+    "region": "Asia",
+    "name": "Turkmenistan"
+  },
+  {
+    "shipments": 9719,
+    "weight": 16433,
+    "teu": 1305,
+    "value-usd": 22654,
+    "code": "TC",
+    "region": "North America",
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "shipments": 6126,
+    "weight": 8391,
+    "teu": 5801,
+    "value-usd": 12477,
+    "code": "TV",
+    "region": "Oceania",
+    "name": "Tuvalu"
+  },
+  {
+    "shipments": 368,
+    "weight": 408,
+    "teu": 149,
+    "value-usd": 777,
+    "code": "UG",
+    "region": "Africa",
+    "name": "Uganda"
+  },
+  {
+    "shipments": 9424,
+    "weight": 4598,
+    "teu": 8734,
+    "value-usd": 45272,
+    "code": "UA",
+    "region": "Europe",
+    "name": "Ukraine"
+  },
+  {
+    "shipments": 5905,
+    "weight": 4433,
+    "teu": 2920,
+    "value-usd": 24405,
+    "code": "AE",
+    "region": "Asia",
+    "name": "United Arab Emirates"
+  },
+  {
+    "shipments": 3027,
+    "weight": 4834,
+    "teu": 531,
+    "value-usd": 7221,
+    "code": "GB",
+    "region": "Europe",
+    "name": "United Kingdom"
+  },
+  {
+    "shipments": 8421,
+    "weight": 12128,
+    "teu": 1953,
+    "value-usd": 31661,
+    "code": "US",
+    "region": "North America",
+    "name": "United States"
+  },
+  {
+    "shipments": 5579,
+    "weight": 7523,
+    "teu": 5456,
+    "value-usd": 115424,
+    "code": "UY",
+    "region": "South America",
+    "name": "Uruguay"
+  },
+  {
+    "shipments": 5989,
+    "weight": 11280,
+    "teu": 5162,
+    "value-usd": 19095,
+    "code": "UZ",
+    "region": "Asia",
+    "name": "Uzbekistan"
+  },
+  {
+    "shipments": 6594,
+    "weight": 9059,
+    "teu": 3110,
+    "value-usd": 36744,
+    "code": "VU",
+    "region": "Oceania",
+    "name": "Vanuatu"
+  },
+  {
+    "shipments": 3136,
+    "weight": 765,
+    "teu": 2555,
+    "value-usd": 8046,
+    "code": "VE",
+    "region": "South America",
+    "name": "Venezuela"
+  },
+  {
+    "shipments": 2121,
+    "weight": 735,
+    "teu": 627,
+    "value-usd": 3251,
+    "code": "VN",
+    "region": "Asia",
+    "name": "Viet Nam"
+  },
+  {
+    "shipments": 2228,
+    "weight": 1869,
+    "teu": 54,
+    "value-usd": 7201,
+    "code": "VG",
+    "region": "North America",
+    "name": "Virgin Islands, British"
+  },
+  {
+    "shipments": 9875,
+    "weight": 18638,
+    "teu": 7813,
+    "value-usd": 21783,
+    "code": "VI",
+    "region": "North America",
+    "name": "Virgin Islands, U.S."
+  },
+  {
+    "shipments": 1845,
+    "weight": 261,
+    "teu": 1891,
+    "value-usd": 3510,
+    "code": "WF",
+    "region": "Oceania",
+    "name": "Wallis and Futuna"
+  },
+  {
+    "shipments": 6830,
+    "weight": 7667,
+    "teu": 2697,
+    "value-usd": 84257,
+    "code": "EH",
+    "region": "Africa",
+    "name": "Western Sahara"
+  },
+  {
+    "shipments": 9073,
+    "weight": 4825,
+    "teu": 281,
+    "value-usd": 28621,
+    "code": "YE",
+    "region": "Asia",
+    "name": "Yemen"
+  },
+  {
+    "shipments": 7077,
+    "weight": 2287,
+    "teu": 957,
+    "value-usd": 28424,
+    "code": "ZM",
+    "region": "Africa",
+    "name": "Zambia"
+  },
+  {
+    "shipments": 652,
+    "weight": 633,
+    "teu": 672,
+    "value-usd": 4696,
+    "code": "ZW",
+    "region": "Africa",
+    "name": "Zimbabwe"
+  }
+]
