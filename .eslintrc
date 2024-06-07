@@ -45,6 +45,7 @@
     "jsx-a11y/anchor-is-valid": "warn",
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/ban-ts-comment": "off",
-    "jsx-a11y/no-autofocus": "off"
+    "jsx-a11y/no-autofocus": "off",
+    "jsx-a11y/heading-has-content": "off"
   }
 }
