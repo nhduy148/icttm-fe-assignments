@@ -11,4 +11,9 @@ export default defineConfig({
       '@': resolve(__dirname, './src'),
     },
   },
+  build: {
+    emptyOutDir: true,
+    assetsInlineLimit: 0,
+  },
+  base: '',
 });
